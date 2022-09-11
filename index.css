@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    width: 575px;
+    height: 385px;
+    
+    
+}
+@font-face{
+    font-family: cursed;
+    src: url("Font/Cursed.ttf");
+}
+
+h3{
+     color: #EEEEEE;
+     font-size: 40px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin-top: 68px;
+     margin-left: 82px;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: centers;
+}
+
+.counterbox {
+    width: 155px;
+    height: 120px;
+    background-color: #080001;
+    color: #F94F6D;
+    font-size: 90px;
+    text-align: center;
+    font-family: cursed;
+    margin-top: 21px;
+    margin-left: 82px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  
+  
+   
+    
+    
+    
+}
+
+button{
+    font-family: cursed;
+    color: #9AABD8;
+    background-color: #1B244A;
+    border-color:  #9AABD8;
+    width: 45px;
+    height: 45px;
+     border-radius: 5px;
+     
+    
+     
+}
+
+.buttonsbox{
+    width: 155px;
+    height: 45px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 26px;
+    margin-left: 82px;
+   
+   
+     
+}
+
